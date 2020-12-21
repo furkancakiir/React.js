@@ -1,0 +1,29 @@
+{
+
+
+    "users":[
+
+        {
+            "id":"unique=1",
+            "Name":"Furkan Çakır",
+            "Salary":"5000",
+            "Departmanent":"Bilisim"
+          },  
+      
+          {
+            "id":"unique=2",
+            "Name":"Ahmet Çakır",
+            "Salary":"6000",
+            "Departmanent":"Bilisim"
+          },
+      
+          {
+            "id":"unique=3",
+            "Name":"Mustafa Çakır",
+            "Salary":"7000",
+            "Departmanent":"Bilisim"
+          }
+
+        
+    ]
+}
